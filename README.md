@@ -187,8 +187,8 @@ const uiConfig = {
   "disable_video_download": false, // Remove Download, Copy Button on Videos
   "second_domain_for_dl": false, // If you want to display other URL for Downloading to protect your main domain.
   "downloaddomain": "https://testing.fetchgoogleapi.workers.dev", // If "second_domain_for_dl": true then enter downloaddomain otherwise keep empty. eg. https://workers.workersname.workers.dev No Trailing '/'
-  "poster": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.27/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
-  "audioposter": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.27/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
+  "poster": "https://i.imgur.com/wrZ1nZn.png", // Video poster URL or see Readme to how to load from Drive
+  "audioposter": "https://i.imgur.com/wcOuOsP.png", // Video poster URL or see Readme to how to load from Drive
   "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/npm/@googledrive/index", // If Project is Forked, then enter your GitHub repo
   "render_head_md": true, // Render Head.md
   "render_readme_md": true, // Render Readme.md
